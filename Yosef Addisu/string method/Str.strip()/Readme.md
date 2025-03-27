@@ -1,1 +1,0 @@
-The str.swapcase() method in Python returns a new string where all uppercase letters are converted to lowercase and all lowercase letters are converted to uppercase. It does not modify the original string.
